@@ -2,8 +2,8 @@
 # PERSONAL GOALS DISPLAY
 # ================================
 
-# ---------- PART 1: import the keyword module ----------
-# YOUR CODE HERE "of "
+# ---------- PART 1: import the keyword module --
+import keyword
 # One line. You need this for Part 7.
 
 
