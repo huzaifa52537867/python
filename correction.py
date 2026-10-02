@@ -1,0 +1,9 @@
+mean1=36
+wrongnum=56
+correctnum=38
+totalnum=50
+sum=mean1*totalnum
+newsum=wrongnum-correctnum
+sum3=sum-newsum
+mean1=sum3/totalnum
+print(mean1)
