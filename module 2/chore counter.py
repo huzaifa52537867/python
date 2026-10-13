@@ -9,7 +9,7 @@ while task<=chorenum:
         nextchore="walk your dog"
     else:
         nextchore="make your bed"
-    ans=input(f"have you finished{nextchore}(yes/no)")
+    ans=input(f"have you finished'{nextchore}'(yes/no)")
     if ans=="yes":
         task+=1
         print("nice work,now do the next task")
